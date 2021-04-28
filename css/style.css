@@ -253,7 +253,7 @@ body {
     padding: 5px 0;
 }
 
-@media (max-width: 800px) {
+@media (max-width: 900px) {
     body {
         padding: 30px;
     }
