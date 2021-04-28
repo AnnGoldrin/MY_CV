@@ -43,7 +43,7 @@ body {
 
 .sidebar-heading {
     font-size: 22px;
-    font-weight: 400;
+    font-weight: 500;
     padding: 40px 0 10px;
 }
 
@@ -373,10 +373,9 @@ body {
         padding-bottom: 8px;
     }*/
 
-
 }
 
-@media (max-width: 400px) {
+@media (max-width: 479px) {
     body {
         padding: 20px;
     }
